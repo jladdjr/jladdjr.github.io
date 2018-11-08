@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Getting started with soldering - building a clock
+categories: [ham radio, DIY]
+tags: [soldering, clock]
 ---
 
 First, I taped all of the components to a sheet of paper. Organization helps!
