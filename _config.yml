@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Jim Ladd's blog
-tagline:             'New blog'
-description:         'Working on structure of blog atm..'
+title:               Jim Ladd's B(inary) Log
+tagline:             'Ham Radio, development, this and that..'
+description:         'Ham Radio, development, this and that..'
 url:                 https://jladdjr.github.io
 baseurl:             ''
 paginate:            3
