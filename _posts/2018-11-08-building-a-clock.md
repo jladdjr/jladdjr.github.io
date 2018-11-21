@@ -16,6 +16,8 @@ I looked around on Amazon for a while and eventually settled on the [KKmoon DIY 
 * .. but not so involved that it would be an impossible first project,
 * .. and the end result seemed useful and fun.
 
+The instructions that come with the clock were severely abbreviated and hard-to-follow. Amazingly though, one person who bought the kit practiced building it and then wrote up a fantastic set of instructions for his class. The instructions not only show you how to build the clock step-by-step, but also point out gotchas, and provide some background on the clock's design. A PDF version of those instructions can be found [here](/assets/docs/clock_instructions.pdf). (Huge thanks to the author of these instructions!)
+
 Before starting the project, I took some time to look at tutorials on soldering. [Here's one](https://www.youtube.com/watch?v=BLfXXRfRIzY) that I found to be helpful. Some of my important take-aways from the video and my experience with the project were:
 
 * Be sure to clean, then tin your soldering iron before starting to work on a component. You can clean the iron with a sponge, but [cleaning flux](https://www.amazon.com/Hakko-599B-02-Wire-type-soldering-cleaner/dp/B07GSJ98QN/ref=sr_1_6?ie=UTF8&qid=1541750170&sr=8-6&keywords=cleaning+flux) may be a little easier on the iron (will spare it from the shock of the temperature change that can come with using the sponge).
