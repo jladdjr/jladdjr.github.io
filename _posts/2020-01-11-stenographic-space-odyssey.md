@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Stenographic Space Odyssey
-categories: [steno]
+categories: [writing]
 tags: [fiction]
 ---
 
