@@ -23,7 +23,7 @@ So. How do you use this beast?
 
 Wait, what!? That's right, your hands sit _between_ the two rows, literally on the cracks of the keys.
 
-(and, not to get ahead of ourselves too much, but one amazing implication of this is that on a steno keyboard your hands _never_ leave home row. Ever.)
+(and, not to get ahead of ourselves too much, but one amazing implication of this is that on a steno keyboard your hands rarely move more than a half key away. The one exception to this being numbers.)
 
 ## 2. Multiple keys are pressed _at the same time_ to create words
 
