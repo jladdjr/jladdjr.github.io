@@ -9,7 +9,7 @@ Indeed, it's been a whole ten months since I last wrote.. what happened!?
 
 Well, life, I guess. Covid certainly has thrown everything, everywhere a pretty big curve ball and steno practice has been no exception.
 
-I also think that the way that I was trying to learn steno was also making things harder than they really needed to be; in hindsight, I think I was bringing an unrealistic expectation to each practice session: that somehow, _that session_ would somehow unlock the secret to making a huge jump forward with steno. I think that was a pretty good recipe for burnout.
+I also think that the way that I was trying to learn steno was making things harder than they really needed to be; in hindsight, I think I was bringing an unrealistic expectation to each practice session: that somehow _that session_ would unlock the secret to making a huge jump forward with steno. I think that was a pretty good recipe for burnout.
 
 Recently, though, I've been trying a different approach -- it's called Beeminder.
 
@@ -19,7 +19,9 @@ For me, this has felt amazing. First of all, it definitely means that I get pret
 
 Here's a look at my Beeminder goal for steno:
 
+<div style="text-align: center">
 <a href="https://www.beeminder.com/jladdjr/steno"><img alt="Beeminder goal for steno" title="Beeminder goal for steno" src="https://www.beeminder.com/jladdjr/steno/graph" width="500" /></a>
+</div>
 
 Without going into too much detail about how everything works here, basically, I've pledged to practice steno for 5 minutes a day. If I cross the red line, then pay Beeminder. That's called derailing.
 
