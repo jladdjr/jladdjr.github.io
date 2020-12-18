@@ -15,7 +15,7 @@ Recently, though, I've been trying a different approach -- it's called Beeminder
 
 With Beeminder, you set a goal -- sometimes referred to as a commitment contract -- that you are bound to, otherwise.. they charge your credit card. Serious business, right?
 
-For me, this has felt amazing. First of all, it definitely means that I get pretty serious about my goals. But it also -- and perhaps this is the more relevant part for steno -- it helps me to focus on taking things one day at a time.
+For me, this has felt amazing. First of all, it definitely means that I get pretty serious about my goals. But it also -- and perhaps this is the more relevant part for steno -- helps me to focus on taking things one day at a time.
 
 Here's a look at my Beeminder goal for steno:
 
