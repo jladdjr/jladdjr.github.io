@@ -20,7 +20,7 @@ For me, this has felt amazing. First of all, it definitely means that I get pret
 Here's a look at my Beeminder goal for steno:
 
 <div style="text-align: center">
-<a href="https://www.beeminder.com/jladdjr/steno"><img alt="Beeminder goal for steno" title="Beeminder goal for steno" src="https://www.beeminder.com/jladdjr/steno/graph" width="500" /></a>
+<a href="https://www.beeminder.com/jladdjr/steno"><img alt="Beeminder goal for steno" title="Beeminder goal for steno" src="https://www.beeminder.com/jladdjr/steno/graph" width="600" /></a>
 </div>
 
 Without going into too much detail about how everything works here, basically, I've pledged to practice steno for five minutes a day. If I fall too far behind I'll cross over the red line and then have to pay Beeminder. That's called derailing.
