@@ -23,6 +23,6 @@ Here's a look at my Beeminder goal for steno:
 <a href="https://www.beeminder.com/jladdjr/steno"><img alt="Beeminder goal for steno" title="Beeminder goal for steno" src="https://www.beeminder.com/jladdjr/steno/graph" width="500" /></a>
 </div>
 
-Without going into too much detail about how everything works here, basically, I've pledged to practice steno for 5 minutes a day. If I cross the red line, then pay Beeminder. That's called derailing.
+Without going into too much detail about how everything works here, basically, I've pledged to practice steno for five minutes a day. If I fall too far behind I'll cross over the red line and then have to pay Beeminder. That's called derailing.
 
 If you're interested in learning more, check out the [Beeminder site](https://www.beeminder.com/). They have tons of information on how the whole system works, and lots of thoughtful articles on their philosophy, too.
