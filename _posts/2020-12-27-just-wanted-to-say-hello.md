@@ -13,4 +13,4 @@ There is one thing that I've been meaning to mention for a while now that may or
 
 I think one other thing that I keep thinking but haven't written yet is that I've really loved this whole process of doing steno practice and then coming over here to jot down a few thoughts even though there really isn't a ton of material here yet. It's already been just a really fun journey and I'm still totally in love with steno after putting in a ton of practice and still being a bit pokey with it.
 
-Anyways... like I said, I just wanted to say hello... and that everything here is written in full steno glory... and that it's been more fun than you'd believe... and that it's a lot of fun to send this off into the void. Have you tried stenoing? It's worth a shot, and more fun than you'd believe : )
+Anyways... like I said, I just wanted to say hello... and that everything here is written in full steno glory... and that it's been more fun than you'd believe... and that it's a lot of fun to send this off into the void.
