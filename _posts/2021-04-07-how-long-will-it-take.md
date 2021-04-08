@@ -35,3 +35,9 @@ You _can_ set up a schedule for yourself and tell yourself that you are going to
 There's another way though.
 
 Steno is beautiful. It is deep. It is worth doing for it's own sake. I think the best way to approach it, even if you do have goals in mind, is to find a rhythm, focus on mastery, and let progress be a _byproduct_.
+
+I have recently been reading a book that I think does a much better job of explaining all of this. It's called _Mastery_ by George Leonard. Here's a quote from the book:
+
+> "How long will it take me to master aikido?" a prospective student asks. "How long do you expect do live?" is the only respectable response. Ultimately, practice _is_ the path of mastery. If you stay on it long enough, you'll find it to be a vivid place, with its ups and downs, its challenges and comforts, its surprises and disappointment, and uncondititional joys. You'll take your share of bumps and bruises while traveling--bruises of the ego as well as of the body, mind, and spirit--but it might well turn out to be the most reliable thing in your life. Then, too, it might eventually make you a winner in your chosen field, if that's what you're looking for, and then people will refer to you as a master.
+
+> "But that's not really the point. What is mastery? At the heart of it, mastery is practice. Mastery is staying on the path.
