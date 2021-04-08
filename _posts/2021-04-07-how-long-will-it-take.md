@@ -2,14 +2,14 @@
 layout: post
 title: How long will it take?
 categories: [steno]
-tags: [steno]
+tags: [steno, mastery]
 ---
 
 In one of my last articles, I went over how steno works but made no mention of how long it takes to learn.
 
 That's a question that comes up...a lot. I remember spending months wondering about that myself.
 
-Will I have enough time to commit to this? What will the pay-off be? Will it actually be worth it? How much innate ability do I have? Will it take me more or less time than average to learn this?
+Will I have enough time to commit to this? What will the pay-off be? Will it actually be worth it? How much innate ability do I have? Will it take me more or less time than the average person to learn this?
 
 It's really easy to worry about not having enough time or having this sneaking suspicion that you won't turn out to be 'good enough' to make it with steno. I have some good news though.
 
