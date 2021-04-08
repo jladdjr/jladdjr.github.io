@@ -9,7 +9,7 @@ In one of my last articles, I went over how steno works but made no mention of h
 
 That's a question that comes up...a lot. I remember spending months wondering about that myself.
 
-Will I have enough time to commit to this? What will the pay-off be? Will it actually be worth it? How much innate ability do I have? Will it take me more or less time on average to learn this?
+Will I have enough time to commit to this? What will the pay-off be? Will it actually be worth it? How much innate ability do I have? Will it take me more or less time than average to learn this?
 
 It's really easy to worry about not having enough time or having this sneaking suspicion that you won't turn out to be 'good enough' to make it with steno. I have some good news though.
 
@@ -38,6 +38,6 @@ Steno is beautiful. It is deep. It is worth doing for it's own sake. I think the
 
 I have recently been reading a book that I think does a much better job of explaining all of this. It's called _Mastery_ by George Leonard. Here's a quote from the book:
 
-> "How long will it take me to master aikido?" a prospective student asks. "How long do you expect do live?" is the only respectable response. Ultimately, practice _is_ the path of mastery. If you stay on it long enough, you'll find it to be a vivid place, with its ups and downs, its challenges and comforts, its surprises and disappointment, and uncondititional joys. You'll take your share of bumps and bruises while traveling--bruises of the ego as well as of the body, mind, and spirit--but it might well turn out to be the most reliable thing in your life. Then, too, it might eventually make you a winner in your chosen field, if that's what you're looking for, and then people will refer to you as a master.
+> "How long will it take me to master aikido?" a prospective student asks. "How long do you expect to live?" is the only respectable response. Ultimately, practice _is_ the path of mastery. If you stay on it long enough, you'll find it to be a vivid place, with its ups and downs, its challenges and comforts, its surprises and disappointments, and uncondititional joys. You'll take your share of bumps and bruises while traveling--bruises of the ego as well as of the body, mind, and spirit--but it might well turn out to be the most reliable thing in your life. Then, too, it might eventually make you a winner in your chosen field, if that's what you're looking for, and then people will refer to you as a master.
 
-> "But that's not really the point. What is mastery? At the heart of it, mastery is practice. Mastery is staying on the path.
+> But that's not really the point. What is mastery? At the heart of it, mastery is practice. Mastery is staying on the path.
