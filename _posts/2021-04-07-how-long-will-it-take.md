@@ -34,7 +34,7 @@ You _can_ set up a schedule for yourself and tell yourself that you are going to
 
 There's another way though.
 
-Steno is beautiful. It is deep. It is worth doing for it's own sake. I think the best way to approach it, even if you do have goals in mind, is to find a rhythm, focus on mastery, and let progress be a _byproduct_.
+Steno is beautiful. It is deep. It is worth doing for its own sake. I think the best way to approach it, even if you do have goals in mind, is to find a rhythm, focus on mastery, and let progress be a _byproduct_.
 
 I have recently been reading a book that I think does a much better job of explaining all of this. It's called _Mastery_ by George Leonard. Here's a quote from the book:
 
