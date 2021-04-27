@@ -17,7 +17,7 @@ Before I headed home, I was already looking into getting a steno machine that I 
 
 Well, one fantastic resource is... the steno community! There's a pretty active [Discord server for Plover](https://discord.gg/fyTp6N) that hosts a rich community of makers, tinkerers, and hobbyists that have come up with all kinds of steno boards that you can use.
 
-Here's the board that I bought while still at the conference (that's right; I couldn't even wait until I got back home to buy a board 😄) -- it's called the [Georgi](https://www.gboards.ca/product/georgi), one of many killer boards by [Jeremy Bernhardt](https://www.gboards.ca/about):
+Here's the board that I bought while still at the conference (that's right; I couldn't even wait until I got back home to buy a board 😄) -- it's called the [Georgi](https://www.gboards.ca/product/georgi), one of many killer boards by [Jane Bernhardt](https://www.gboards.ca/about):
 
 ![stenoing at Coava](/assets/steno/typey_type_at_coava.png)
 
